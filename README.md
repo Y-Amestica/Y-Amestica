@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yazmin Amestica Aranguiz</h1>
-<h3 align="center">Double degree student of Computer Science and Cybersecurity Engineering.</h3>
+<h3 align="center">Double-degree student of Computer Science and Cybersecurity Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y-amestica&label=Profile%20views&color=0e75b6&style=flat" alt="y-amestica" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y-amestica" alt="y-amestica" /></a> </p>
 
-- 🔭 I'm currently working on [Cloud Application With Database](https://github.com/Y-Amestica/Cloud-App-With-Database)
+- 🔭 I'm currently working on Containers w/ Docker, Kubernetes & OpenShift.
 
 - 🌱 I’m pursuing the **IBM Full Stack Software Developer Professional Certificate**
 
