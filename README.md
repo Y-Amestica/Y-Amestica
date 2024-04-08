@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y-amestica" alt="y-amestica" /></a> </p>
 
-- 🔭 I'm currently working on Containers w/ Docker, Kubernetes & OpenShift.
+- 🔭 I'm currently working on Full Stack Application Development Capstone Project.
 
 - 🌱 I’m pursuing the **IBM Full Stack Software Developer Professional Certificate**
 
