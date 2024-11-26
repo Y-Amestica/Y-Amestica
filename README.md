@@ -9,7 +9,7 @@
 
 - 🌱 I’m pursuing the **AWS Certified Solutions Architect - Associate Certification**
 
-- 📫 How to reach me **yazminamestica@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/yazmin-amestica/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
