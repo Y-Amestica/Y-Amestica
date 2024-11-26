@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y-amestica" alt="y-amestica" /></a> </p>
 
-- 🔭 I'm currently working on Full Stack Application Development Capstone Project.
+- 🔭 I'm currently working on personal **Java desktop application projects with a focus on JavaFX, databases, and security.**
 
-- 🌱 I’m pursuing the **IBM Full Stack Software Developer Professional Certificate**
+- 🌱 I’m pursuing the **AWS Certified Solutions Architect - Associate Certification**
 
 - 📫 How to reach me **yazminamestica@gmail.com**
 
