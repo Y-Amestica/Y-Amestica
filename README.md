@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y-amestica" alt="y-amestica" /></a> </p>
 
-- 🔭 I'm currently working on personal **Java desktop application projects with a focus on JavaFX, databases, and security.**
+- 🔭 I'm currently working on personal **Java personal projects with a focus on improving skills using JavaFX, databases, testing and security.**
 
 - 🌱 I’m pursuing the **AWS Certified Solutions Architect - Associate Certification**
 
